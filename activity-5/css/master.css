@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: auto 30px;
+}
+
+#credits {
+    font-style: italic;
+    font-size: .75em;
+    margin-bottom: 20px;
+}
+
+#header-image {
+    width: 100%;
+}
+
+#p1-author {
+    font-weight: bolder;
+}
+
+#p2-author {
+    font-weight: bolder;
+}
+
+#p1-downloads {
+    font-weight: bolder;
+}
+
+#p2-downloads {
+    font-weight: bolder;
+}
+
+#p1-stars {
+    font-weight: bolder;
+}
+
+#p2-stars {
+    font-weight: bolder;
+}
